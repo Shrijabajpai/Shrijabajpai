@@ -1,16 +1,16 @@
-# Shivansh Asthana
+# Shrija Bajpai
 
 ## Education
 - **Bachelor of Technology (B.Tech) in Information Technology**
-  - SRMCEM, Lucknow
-  - December 2020 - June 2024
+  - *SRMCEM, Lucknow*
+  - *December 2020 - June 2024*
 
 - **Class XII | ISC Board**
-  - Stella Maris Inter College, Lucknow
-  - March 2019 - March 2020
+  - *Stella Maris Inter College, Lucknow*
+  - *March 2019 - March 2020*
 
 - **Class X | ICSE Board**
-  - Stella Maris Inter College, Lucknow
+  - *Stella Maris Inter College, Lucknow*
 
 ## Skills
 - **Programming Languages**: Core Java, HTML, CSS, JavaScript, Python
@@ -33,7 +33,8 @@
    - *Description*: Designed and implemented a responsive landing page for an ecommerce site.
 
 ## About Me
-I am Shivansh Asthana, a passionate and detail-oriented Information Technology student with hands-on experience in full-stack development. I am proficient in a wide range of technologies and have a strong foundation in both frontend and backend development. My academic achievements and practical project experiences reflect my dedication to learning and contributing effectively to teams.
+I am Shrija Bajpai, a passionate and detail-oriented Information Technology student with hands-on experience in full-stack development. I am proficient in a wide range of technologies and have a strong foundation in both frontend and backend development. My academic achievements and practical project experiences reflect my dedication to learning and contributing effectively to teams.
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile-url)!
+Connect with me on [LinkedIn](your-linkedin-profile-url)!
 
+*Let's innovate and build the future together!* 🚀
