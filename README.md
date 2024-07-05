@@ -11,6 +11,7 @@
 
 - **Class X | ICSE Board**
   - *Stella Maris Inter College, Lucknow*
+  - *March 2017 - March 2018*
 
 ## Skills
 - **Programming Languages**: Core Java, HTML, CSS, JavaScript, Python
