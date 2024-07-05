@@ -15,7 +15,7 @@
 
 ## Skills
 - **Programming Languages**: Core Java, HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries**: Node.js, Next.js, React
+- **Frameworks/Libraries**: Node.js, Express.js, React
 - **Databases**: NoSQL (MongoDB), SQLite
 - **Tools**: GitHub, Figma
 - **CSS Frameworks**: Tailwind CSS
